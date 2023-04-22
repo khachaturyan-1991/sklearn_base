@@ -9,7 +9,7 @@ Folders:
  The follwoing libraries are implemented and compared:
     * Logistic regrassion
     * RandomForest
-    * SVM with different kernels Poly. RBG, Sigmoid
+    * SVM with different kernels Poly, RBG, Sigmoid
 To improve the results follwoing methods were used:
     * data scaling to bring all features values to comparable scales
     * ROC curve
