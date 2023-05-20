@@ -24,7 +24,10 @@ The following librareis are implemented and compares:
 To improve the results follwing methods were used:
     * Polynomial feature expansion
     * Hyperparameter optimizaiton
-Eventually a customized pipeline was build
+A customized pipeline was build
+Eventually a Wide & Deep Nearal Network (NN) is build to compare restults:
+    * NN treats separetly Categorical data from Contineouse into a sparate channel to identify potenial patterns
+    * In the end Categorical and Contineuse channels are concatinated for a final prediciton
 
 
 
